@@ -40,4 +40,9 @@ public class Calc{
       return result;
    }
    
+   
+   public String toString(){
+      return "num1: "+num1+"\nnum2: "+num2;
+   }
+   
 }
